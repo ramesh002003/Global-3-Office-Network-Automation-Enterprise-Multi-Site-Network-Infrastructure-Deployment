@@ -1,4 +1,4 @@
-# Global 3-Office Network Automation
+# Global 3-Office Network Automation – Enterprise Multi-Site Network Infrastructure Deployment, Monitoring & Management
 
 Production-grade network automation for a 3-office global deployment with full redundancy, SD-WAN fabric, centralized management, and **zero external dependency**.
 
