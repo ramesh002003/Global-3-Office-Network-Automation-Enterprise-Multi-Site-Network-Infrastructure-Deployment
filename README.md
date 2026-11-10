@@ -1,0 +1,2 @@
+# Global-3-Office-Network-Automation-Enterprise-Multi-Site-Network-Infrastructure-Deployment
+Designed an enterprise-grade network automation solution to manage and monitor network infrastructure across three geographically distributed office locations. The project focuses on centralized configuration management, automated deployment, troubleshooting, and security operations using Python, Ansible, Netmiko, and network management tools.
