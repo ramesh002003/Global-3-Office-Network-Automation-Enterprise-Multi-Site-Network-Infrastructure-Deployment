@@ -4,7 +4,7 @@ All diagrams use **Mermaid** syntax — rendered natively by GitHub.
 
 | # | Diagram | File |
 |---|---------|------|
-| 1 | Global WAN Topology | [01_global_wan_topology.md](./01_global_wan_topology.md) |
+| 1 | Global WAN Topology | [01_global_wan_topology.md](./Create 01_global_wan_topology.md) |
 | 2 | Office A (HQ) — Full Fabric | [02_office_a_hq.md](./02_office_a_hq.md) |
 | 3 | Office B (Regional) | [03_office_b_regional.md](./03_office_b_regional.md) |
 | 4 | Office C (Branch) | [04_office_c_branch.md](./04_office_c_branch.md) |
