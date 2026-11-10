@@ -21,3 +21,10 @@ All diagrams use **Mermaid** syntax — rendered natively by GitHub.
 2. Modify the Mermaid code block
 3. Push to GitHub — it renders automatically
 4. Preview locally: [mermaid.live](https://mermaid.live)   
+## Architecture
+
+```mermaid
+flowchart TB
+    A[ISP-1] --> B[Core Switch]
+    B --> C[Access Switch]
+```
